@@ -6,3 +6,13 @@ Bobecoin is a cryptocurrency based on the following principles:
 2. The empirical certainty of the falsehood of all things. 
 3. The abhorrent abscence of BEEF in the majority of crypocurrencies today.
 4. The fact that (everyone) loves beef.
+
+Configurator's 
+------------
+    server=1
+    daemon=1
+    listen=1
+    rpcuser=bobecoin
+    rpcpass=bobebeefcoinfalse
+    rpcport=21013
+    port=11013
